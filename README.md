@@ -32,7 +32,7 @@
 
 This is not an exhaustive list. Download and install the launcher to gauge all it can do!
 
-#### Need Help? [Check the wiki.][wiki]
+<!--#### Need Help? [Check the wiki.][wiki]-->
 
 #### Like the project? Leave a ⭐ star on the repository!
 
@@ -57,10 +57,10 @@ If you download from the [Releases](https://github.com/dscalzi/HeliosLauncher/re
 | macOS | `helioslauncher-VERSION.dmg` |
 | Linux x64 | `helioslauncher-VERSION-x86_64.AppImage` |-->
 
-## Resources
+<!--## Resources
 
 * [Wiki][wiki]
-* [Nebula (Create Distribution.json)][nebula]
+* [Nebula (Create Distribution.json)][nebula]-->
 
 <!--The best way to contact the developers is on Discord.
 
