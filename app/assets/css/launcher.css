@@ -171,6 +171,7 @@ body, button {
     margin-left: 5px;
     -webkit-app-region: no-drag !important;
     cursor: pointer;
+    padding-left: 0;
 }
 .frameButtonDarwin:focus {
     outline: 0px;
